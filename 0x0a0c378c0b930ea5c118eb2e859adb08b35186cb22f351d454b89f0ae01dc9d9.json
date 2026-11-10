@@ -1,0 +1,46 @@
+{
+  "root": "0x0a0c378c0b930ea5c118eb2e859adb08b35186cb22f351d454b89f0ae01dc9d9",
+  "updatedAt": 1794331380,
+  "campaigns": [
+    {
+      "id": "0",
+      "creator": "0x2CfdC64881c794d3749D76d5A020b1e17e33aC62",
+      "token": "0x9B034262e0095210ab9ddec60199741a8a1FbFe7",
+      "target": 0,
+      "asset": "0x0000000000000000000000000000000000000000",
+      "start": 1794283278,
+      "end": 1794369678,
+      "amount": "120582767113948",
+      "eligible": 0,
+      "totalValueUsd": 0,
+      "totalWeightUsd": 0,
+      "active": true,
+      "tokenUsd": 1815.56373112894,
+      "perYear": 0.04401270999659102,
+      "aprAtEcm1": null
+    }
+  ],
+  "decimals": {
+    "0x9B034262e0095210ab9ddec60199741a8a1FbFe7": 18
+  },
+  "targets": {},
+  "deposits": {},
+  "claims": {
+    "0xE4bcDc619C581a70a91307C3d6aF2159Ee3C0248": {
+      "0x9B034262e0095210ab9ddec60199741a8a1FbFe7": {
+        "amount": "65839028224393",
+        "proof": [
+          "0xb49143af61c36b833273002a55ef2e131a663ee76ca70ac8ae002dfcc27cbcce"
+        ]
+      }
+    },
+    "0x2CfdC64881c794d3749D76d5A020b1e17e33aC62": {
+      "0x9B034262e0095210ab9ddec60199741a8a1FbFe7": {
+        "amount": "1293752605643",
+        "proof": [
+          "0x1e5221cb3c288c6f2e878da70bd0d78860487619b6f1ef0504f15fbd554c56a5"
+        ]
+      }
+    }
+  }
+}
