@@ -1,6 +1,6 @@
 {
-  "root": "0x3d530339b498a3621cfcc0a2ebb2baa72519da3288e2238753e38ac2c6bb7eae",
-  "updatedAt": 1794332616,
+  "root": "0xcb2450d9e4755851348bd2c09f532661cee2ea0e7f246b0f5d7e7e9767e9c5b9",
+  "updatedAt": 1794332923,
   "campaigns": [
     {
       "id": "0",
@@ -30,13 +30,13 @@
       "0x9B034262e0095210ab9ddec60199741a8a1FbFe7": {
         "amount": "65839028224393",
         "proof": [
-          "0xc5b4dad7886cb55d6e41be21e34ea2ec3ea19b0b65f048ec2b0f19dda0e76373"
+          "0xbdcac93cc2c855276ecb8ebe30c61ab42f60452459e0a615968526c4dcd9d7ec"
         ]
       }
     },
     "0x2CfdC64881c794d3749D76d5A020b1e17e33aC62": {
       "0x9B034262e0095210ab9ddec60199741a8a1FbFe7": {
-        "amount": "3018756079634",
+        "amount": "3447215680374",
         "proof": [
           "0x1e5221cb3c288c6f2e878da70bd0d78860487619b6f1ef0504f15fbd554c56a5"
         ]
