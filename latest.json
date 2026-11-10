@@ -1,6 +1,6 @@
 {
-  "root": "0xe344b766f65450e331a16325f6392809d16d668f59d667c5547b97deaab6bca2",
-  "updatedAt": 1794336628,
+  "root": "0x512579602182b51e5bef25b3003598937e9f909cbc1593da3e1b62d8e2d6f1f6",
+  "updatedAt": 1794336937,
   "campaigns": [
     {
       "id": "0",
@@ -15,7 +15,7 @@
       "totalValueUsd": 0,
       "totalWeightUsd": 0,
       "active": true,
-      "tokenUsd": 1804.2561059876,
+      "tokenUsd": 1803.81751808913,
       "perYear": 0.04401270999659102,
       "aprAtEcm1": null
     }
@@ -30,13 +30,13 @@
       "0x9B034262e0095210ab9ddec60199741a8a1FbFe7": {
         "amount": "65839028224393",
         "proof": [
-          "0xa787349b623f702a468af8229c1e39822c5f3895813eb0f0ca2b443983e5262d"
+          "0xbe6b1518bc9640b90ccd26ba0fbd00b172b7ac4df43bd7ecfd1aa0343dc9be3d"
         ]
       }
     },
     "0x2CfdC64881c794d3749D76d5A020b1e17e33aC62": {
       "0x9B034262e0095210ab9ddec60199741a8a1FbFe7": {
-        "amount": "8618039200712",
+        "amount": "9049290069210",
         "proof": [
           "0x1e5221cb3c288c6f2e878da70bd0d78860487619b6f1ef0504f15fbd554c56a5"
         ]
