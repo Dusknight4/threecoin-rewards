@@ -1,6 +1,6 @@
 {
-  "root": "0x7b64363ac051258f53da8a3eb57d5337ac40d785036fcf6be5f5c2ae58386442",
-  "updatedAt": 1794367201,
+  "root": "0x4b83049446ccacffaf59f85b7cbefcbdb143c5448489b0111c3ce25f9b0fe079",
+  "updatedAt": 1794367509,
   "campaigns": [
     {
       "id": "0",
@@ -26,19 +26,19 @@
   "targets": {},
   "deposits": {},
   "claims": {
-    "0x2CfdC64881c794d3749D76d5A020b1e17e33aC62": {
-      "0x9B034262e0095210ab9ddec60199741a8a1FbFe7": {
-        "amount": "51286753772179",
-        "proof": [
-          "0x1e5221cb3c288c6f2e878da70bd0d78860487619b6f1ef0504f15fbd554c56a5"
-        ]
-      }
-    },
     "0xE4bcDc619C581a70a91307C3d6aF2159Ee3C0248": {
       "0x9B034262e0095210ab9ddec60199741a8a1FbFe7": {
         "amount": "65839028224393",
         "proof": [
-          "0x117e8c129ee1f3c8bedf55319763b4e15424f358ab1772274d22a3ff104cc329"
+          "0xe3804add91ea7e0f4a764d688b63867591595b987ffe61735d7004c2a0eeba3e"
+        ]
+      }
+    },
+    "0x2CfdC64881c794d3749D76d5A020b1e17e33aC62": {
+      "0x9B034262e0095210ab9ddec60199741a8a1FbFe7": {
+        "amount": "51716609006798",
+        "proof": [
+          "0x1e5221cb3c288c6f2e878da70bd0d78860487619b6f1ef0504f15fbd554c56a5"
         ]
       }
     }
